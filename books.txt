@@ -1,9 +1,9 @@
-The C Programming Language - Brian Kernighan and Dennis M. Ritchie - ZLIB.IO17546018
-C Programming: A Modern Approach - K. N. King - ZLIB.IO17075209
-Computer System: A Programmer's Perspective - Randal E. Bryant, David R. O`Halloron - ZLIB.IO17926318
-C: The Complete Reference - Herbert Schildt - ZLIBIO95493
-Crafting Interpreters - Robert Nystrom - ZLIB.IO16748196
-Writing an Interpreter in Go - Thorsten Ball - ZLIBIO2521274
-Writing a Compiler in Go - Thorsten Ball - ZLIBIO2521273
-Modern Processor Design: Fundamentals of Superscalar Processors - John Paul Shen, Mikko H. Lipasti - ZLIBIO2235657
-Computer Architecture: A Quantitative Approach - John L. Hennessy, David A. Patterson - ZLIB.IO16771371
+# The C Programming Language - Brian Kernighan and Dennis M. Ritchie - ZLIB.IO17546018
+# C Programming: A Modern Approach - K. N. King - ZLIB.IO17075209
+# Computer System: A Programmer's Perspective - Randal E. Bryant, David R. O`Halloron - ZLIB.IO17926318
+# C: The Complete Reference - Herbert Schildt - ZLIBIO95493
+# Crafting Interpreters - Robert Nystrom - ZLIB.IO16748196
+# Writing an Interpreter in Go - Thorsten Ball - ZLIBIO2521274
+# Writing a Compiler in Go - Thorsten Ball - ZLIBIO2521273
+# Modern Processor Design: Fundamentals of Superscalar Processors - John Paul Shen, Mikko H. Lipasti - ZLIBIO2235657
+# Computer Architecture: A Quantitative Approach - John L. Hennessy, David A. Patterson - ZLIB.IO16771371
