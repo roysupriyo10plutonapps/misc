@@ -1,1 +1,7 @@
 SSH RFC = https://datatracker.ietf.org/doc/html/rfc4251
+IP SUBNETTING RFC = https://datatracker.ietf.org/doc/html/rfc950
+IP PROTOCOL RFC = https://datatracker.ietf.org/doc/html/rfc791
+TCP RFC = https://datatracker.ietf.org/doc/html/rfc9293
+UDP RFC = https://datatracker.ietf.org/doc/html/rfc768
+IPv6 RFC = https://datatracker.ietf.org/doc/html/rfc8200
+IPv4 RFC = https://datatracker.ietf.org/doc/html/rfc1366
