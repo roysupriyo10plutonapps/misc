@@ -5,3 +5,8 @@ TCP RFC = https://datatracker.ietf.org/doc/html/rfc9293
 UDP RFC = https://datatracker.ietf.org/doc/html/rfc768
 IPv6 RFC = https://datatracker.ietf.org/doc/html/rfc8200
 IPv4 RFC = https://datatracker.ietf.org/doc/html/rfc1366
+
+ZIG
+what is a memory allocator = https://www.youtube.com/watch?v=vHWiDx_l4V0
+what is a memory allocator = https://www.youtube.com/watch?v=c0g3S_2QxWM&ab_channel=JorgeRodriguez
+ziglings book = https://github.com/ratfactor/ziglings

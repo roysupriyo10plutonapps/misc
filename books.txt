@@ -7,3 +7,6 @@
 # Writing a Compiler in Go - Thorsten Ball - ZLIBIO2521273
 # Modern Processor Design: Fundamentals of Superscalar Processors - John Paul Shen, Mikko H. Lipasti - ZLIBIO2235657
 # Computer Architecture: A Quantitative Approach - John L. Hennessy, David A. Patterson - ZLIB.IO16771371
+# TC/IP Programming in C - Michael J Donahoo
+# Computer Networks: A System Approach - Peterson Davie
+# Computer Networking: Top Down Approach - Kurose, Ross
